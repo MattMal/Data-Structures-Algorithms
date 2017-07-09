@@ -1,6 +1,3 @@
-# Data-Structures-Algorithms
-Playing-around-and-creating-various-types-Data-Structures-and-algorithms
-
 
 public class BST {
 	private Node root;
